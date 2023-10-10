@@ -149,7 +149,7 @@ public class Salary_Slip_Generate extends HttpServlet {
 	    	  e.printStackTrace();
 	      }
 		// Creating a PdfWriter       
-	      String dest = "D://SalarySlip_"+Name+"_"+currentdate+".pdf";       
+	      String dest = "E://SalarySlip_"+Name+"_"+currentdate+".pdf";       
 	      PdfWriter writer = new PdfWriter(dest);           
 	      
 	      // Creating a PdfDocument       
@@ -165,7 +165,7 @@ public class Salary_Slip_Generate extends HttpServlet {
 	      Table table = new Table(pointColumnWidths);
 	      Cell cell10 = new Cell();              
 //	       Creating an ImageData object       
-	      String imageFile = "file:///D:/PROJECTS/payrolll2.1/src/main/java/utility/Header.jpeg";       
+	      String imageFile = "file:///C:/Users/Maddy/git/PayrollManagementSystem/payrolll2.1/src/main/java/utility/Header.jpeg";       
 	      ImageData data = ImageDataFactory.create(imageFile);        
 
 	      Image img = new Image(data);              
@@ -580,7 +580,7 @@ public class Salary_Slip_Generate extends HttpServlet {
 	      Cell cc1 = new Cell();   
 	      cc1.setBorder(Border.NO_BORDER);
 //	       Creating an ImageData object       
-	      String imageFile1 = "file:///D:/PROJECTS/payrolll2.1/src/main/java/utility/Footer.jpeg";       
+	      String imageFile1 = "file:///C:/Users/Maddy/git/PayrollManagementSystem/payrolll2.1/src/main/java/utility/Footer.jpeg";       
 	      ImageData data1 = ImageDataFactory.create(imageFile1);        
 
 	      Image img1 = new Image(data1);              

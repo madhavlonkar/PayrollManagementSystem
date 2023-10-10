@@ -19,7 +19,7 @@ public class Reveliving_letter {
 	
 	public void Revgenerate(String name,String Emp_id,String Designation,String DOL,String DOR) throws Exception
 	{
-		String dest = "D://Reliving.pdf";       
+		String dest = "E://Reliving.pdf";       
 	      PdfWriter writer = new PdfWriter(dest);           
 	      
 	      // Creating a PdfDocument       
@@ -34,7 +34,7 @@ public class Reveliving_letter {
 	      Table table = new Table(pointColumnWidths);
 	      Cell cell10 = new Cell();              
 //	       Creating an ImageData object       
-	      String imageFile = "file:///D:/PROJECTS/payrolll2.1/src/main/java/utility/Header.jpeg";       
+	      String imageFile = "file:///C:/Users/Maddy/git/PayrollManagementSystem/payrolll2.1/src/main/java/utility/Header.jpeg";       
 	      ImageData data = ImageDataFactory.create(imageFile);        
 
 	      Image img = new Image(data);              
@@ -136,7 +136,7 @@ public class Reveliving_letter {
 	      Cell cc1 = new Cell();   
 	      cc1.setBorder(Border.NO_BORDER);
 //	       Creating an ImageData object       
-	      String imageFile11 = "file:///D:/PROJECTS/payrolll2.1/src/main/java/utility/Stamp.jpg";       
+	      String imageFile11 = "file:///C:/Users/Maddy/git/PayrollManagementSystem/payrolll2.1/src/main/java/utility/Stamp.jpg";       
 	      ImageData data11 = ImageDataFactory.create(imageFile11);        
 
 	      Image img11 = new Image(data11);              
@@ -162,7 +162,7 @@ public class Reveliving_letter {
 	      Cell cc11 = new Cell();   
 	      cc11.setBorder(Border.NO_BORDER);
 //	       Creating an ImageData object       
-	      String imageFile111 = "file:///D:/PROJECTS/payrolll2.1/src/main/java/utility/Footer.jpeg";       
+	      String imageFile111 = "file:///C:/Users/Maddy/git/PayrollManagementSystem/payrolll2.1/src/main/java/utility/Footer.jpeg";       
 	      ImageData data111 = ImageDataFactory.create(imageFile111);        
 
 	      Image img111 = new Image(data111);              

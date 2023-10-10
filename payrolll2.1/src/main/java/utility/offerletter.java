@@ -29,7 +29,7 @@ public class offerletter {
 //		String DOJ="20-11-2002";
 //		String Designation="Software Developer";
 		// Creating a PdfWriter       
-	      String dest = "D://Offer Letter.pdf";       
+	      String dest = "E://Offer Letter.pdf";       
 	      PdfWriter writer = new PdfWriter(dest);           
 	      
 	      // Creating a PdfDocument       
@@ -44,7 +44,7 @@ public class offerletter {
 	      Table table = new Table(pointColumnWidths);
 	      Cell cell10 = new Cell();              
 //	       Creating an ImageData object       
-	      String imageFile = "file:///D:/PROJECTS/payrolll2.1/src/main/java/utility/Header.jpeg";       
+	      String imageFile = "file:///C:/Users/Maddy/git/PayrollManagementSystem/payrolll2.1/src/main/java/utility/Header.jpeg";       
 	      ImageData data = ImageDataFactory.create(imageFile);        
 
 	      Image img = new Image(data);              
@@ -152,7 +152,7 @@ public class offerletter {
 	      Cell cc11 = new Cell();   
 	      cc11.setBorder(Border.NO_BORDER);
 //	       Creating an ImageData object       
-	      String imageFile111 = "file:///D:/PROJECTS/payrolll2.1/src/main/java/utility/Footer.jpeg";       
+	      String imageFile111 = "file:///C:/Users/Maddy/git/PayrollManagementSystem/payrolll2.1/src/main/java/utility/Footer.jpeg";       
 	      ImageData data111 = ImageDataFactory.create(imageFile111);        
 
 	      Image img111 = new Image(data111);              
@@ -293,7 +293,7 @@ public class offerletter {
 				Cell cc1 = new Cell();   
 				cc1.setBorder(Border.NO_BORDER);
 //				creating an ImageData object       
-				String imageFile11 = "file:///D:/PROJECTS/payrolll2.1/src/main/java/utility/Stamp.jpg";       
+				String imageFile11 = "file:///C:/Users/Maddy/git/PayrollManagementSystem/payrolll2.1/src/main/java/utility/Stamp.jpg";       
 				ImageData data11 = ImageDataFactory.create(imageFile11);        
 
 				Image img11 = new Image(data11);              
@@ -511,7 +511,7 @@ public class offerletter {
 			 cc1 = new Cell();   
 			cc1.setBorder(Border.NO_BORDER);
 //			creating an ImageData object       
-			 imageFile11 = "file:///D:/PROJECTS/payrolll2.1/src/main/java/utility/Stamp.jpg";       
+			 imageFile11 = "file:///C:/Users/Maddy/git/PayrollManagementSystem/payrolll2.1/src/main/java/utility/Stamp.jpg";       
 			 data11 = ImageDataFactory.create(imageFile11);        
 
 			 img11 = new Image(data11);              

@@ -13,87 +13,87 @@
 			<attribute name="owner.project.facets" value="jst.web"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="D:/ADVANCE/tools/JAR FILES/Payroll/log4j-1.2.17.jar">
+	<classpathentry kind="lib" path="C:/Users/Maddy/git/PayrollManagementSystem/payrolll2.1/Required Files/Jars/Jars/log4j-1.2.17.jar">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="D:/ADVANCE/tools/JAR FILES/Payroll/mongo-java-driver-3.8.1.jar">
+	<classpathentry kind="lib" path="C:/Users/Maddy/git/PayrollManagementSystem/payrolll2.1/Required Files/Jars/Jars/mongo-java-driver-3.8.1.jar">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="D:/ADVANCE/tools/JAR FILES/Payroll/mysql-connector-java-8.0.11.jar">
+	<classpathentry kind="lib" path="C:/Users/Maddy/git/PayrollManagementSystem/payrolll2.1/Required Files/Jars/Jars/mysql-connector-java-8.0.11.jar">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="D:/ADVANCE/tools/JAR FILES/Payroll/protobuf-java-2.6.0.jar">
+	<classpathentry kind="lib" path="C:/Users/Maddy/git/PayrollManagementSystem/payrolll2.1/Required Files/Jars/Jars/protobuf-java-2.6.0.jar">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="D:/ADVANCE/tools/JAR FILES/Payroll/servlet-api.jar">
+	<classpathentry kind="lib" path="C:/Users/Maddy/git/PayrollManagementSystem/payrolll2.1/Required Files/Jars/Jars/servlet-api.jar">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="D:/ADVANCE/tools/JAR FILES/Payroll/PDF JARS/bcpkix-jdk15on-1.70.jar">
+	<classpathentry kind="lib" path="C:/Users/Maddy/git/PayrollManagementSystem/payrolll2.1/Required Files/Jars/Jars/PDF JARS/bcpkix-jdk15on-1.70.jar">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="D:/ADVANCE/tools/JAR FILES/Payroll/PDF JARS/bcprov-jdk15on-1.70.jar">
+	<classpathentry kind="lib" path="C:/Users/Maddy/git/PayrollManagementSystem/payrolll2.1/Required Files/Jars/Jars/PDF JARS/bcprov-jdk15on-1.70.jar">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="D:/ADVANCE/tools/JAR FILES/Payroll/PDF JARS/bcutil-jdk15on-1.70.jar">
+	<classpathentry kind="lib" path="C:/Users/Maddy/git/PayrollManagementSystem/payrolll2.1/Required Files/Jars/Jars/PDF JARS/bcutil-jdk15on-1.70.jar">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="D:/ADVANCE/tools/JAR FILES/Payroll/PDF JARS/commons-7.2.3.jar">
+	<classpathentry kind="lib" path="C:/Users/Maddy/git/PayrollManagementSystem/payrolll2.1/Required Files/Jars/Jars/PDF JARS/commons-7.2.3.jar">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="D:/ADVANCE/tools/JAR FILES/Payroll/PDF JARS/io-7.2.3.jar">
+	<classpathentry kind="lib" path="C:/Users/Maddy/git/PayrollManagementSystem/payrolll2.1/Required Files/Jars/Jars/PDF JARS/io-7.2.3.jar">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="D:/ADVANCE/tools/JAR FILES/Payroll/PDF JARS/itextpdf-5.1.0.jar">
+	<classpathentry kind="lib" path="C:/Users/Maddy/git/PayrollManagementSystem/payrolll2.1/Required Files/Jars/Jars/PDF JARS/itextpdf-5.1.0.jar">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="D:/ADVANCE/tools/JAR FILES/Payroll/PDF JARS/kernel-7.2.3.jar">
+	<classpathentry kind="lib" path="C:/Users/Maddy/git/PayrollManagementSystem/payrolll2.1/Required Files/Jars/Jars/PDF JARS/kernel-7.2.3.jar">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="D:/ADVANCE/tools/JAR FILES/Payroll/PDF JARS/layout-7.2.3.jar">
+	<classpathentry kind="lib" path="C:/Users/Maddy/git/PayrollManagementSystem/payrolll2.1/Required Files/Jars/Jars/PDF JARS/layout-7.2.3.jar">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="D:/ADVANCE/tools/JAR FILES/Payroll/PDF JARS/slf4j-api-1.7.36.jar">
+	<classpathentry kind="lib" path="C:/Users/Maddy/git/PayrollManagementSystem/payrolll2.1/Required Files/Jars/Jars/PDF JARS/slf4j-api-1.7.36.jar">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="D:/ADVANCE/tools/JAR FILES/Payroll/itextpdf-5.1.0.jar/itextpdf-5.1.0.jar">
+	<classpathentry kind="lib" path="C:/Users/Maddy/git/PayrollManagementSystem/payrolll2.1/Required Files/Jars/Jars/itextpdf-5.1.0.jar/itextpdf-5.1.0.jar">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="D:/ADVANCE/tools/JAR FILES/Payroll/EMAIL/activation-1.1.1.jar">
+	<classpathentry kind="lib" path="C:/Users/Maddy/git/PayrollManagementSystem/payrolll2.1/Required Files/Jars/Jars/EMAIL/activation-1.1.1.jar">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="D:/ADVANCE/tools/JAR FILES/Payroll/EMAIL/mail-1.4.6-rc1.jar">
+	<classpathentry kind="lib" path="C:/Users/Maddy/git/PayrollManagementSystem/payrolll2.1/Required Files/Jars/Jars/EMAIL/mail-1.4.6-rc1.jar">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>

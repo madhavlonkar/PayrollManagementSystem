@@ -155,7 +155,7 @@
                         <div class="p-t-15" align="center">
                             <button class="btn btn--radius-2 btn--blue" type="submit">New Record</button>
                             
-                            <a href="../EmployeeDeduction/UserSearch.html" class="btn btn--radius-2 btn--blue">Back</a>
+                            <a href="../EmployeeDeduction/UserSearch.jsp" class="btn btn--radius-2 btn--blue">Back</a>
                         </div>
                         
                     </form>
